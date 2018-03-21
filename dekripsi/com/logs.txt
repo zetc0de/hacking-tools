@@ -1,5 +1,0 @@
-/encrypt/PHP%20Encrypting%20&%20Encoding%20Script/encrypt.php?algorithm=%27reverse <=> 10.11.1.186 <=> Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:37.0) Gecko/20100101 Firefox/37.0 <=> Possible hacking attempt detected.
-/dekripsi/encrypt.php <=> 127.0.0.1 <=> Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0 <=> Possible hacking attempt detected.
-/dekripsi/encrypt.php <=> 127.0.0.1 <=> Mozilla/5.0 (X11; Linux i686; rv:45.0) Gecko/20100101 Firefox/45.0 <=> Possible hacking attempt detected.
-/dekripsi/encrypt.php <=> 127.0.0.1 <=> DirBuster-1.0-RC1 (http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project) <=> Possible hacking attempt detected.
-/dekripsi/encrypt.php <=> 127.0.0.1 <=> DirBuster-1.0-RC1 (http://www.owasp.org/index.php/Category:OWASP_DirBuster_Project) <=> Possible hacking attempt detected.
