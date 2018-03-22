@@ -1,4 +1,4 @@
 ## Koleksi Hacking Tools
 <div align="center">
-	<img src="https://i.pinimg.com/originals/0e/d8/56/0ed856189db0c88b033219bdb59746ab.jpg">
+	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4fefVWHlBCHCKxsLJD86LxTd3u9FU1N25SKqjdVB-ztDzlC7RWw">
 </div>
